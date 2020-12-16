@@ -1,6 +1,6 @@
 ## TEST BOOTCAMP DUMBWAYS BATCH 19 KLOTER 2
 
-Hai, perkenalkan nama saya Rendy Aldion. Ini adalah hasil jawab dari tes bootcamp Arkademy Batch 19 Kloter 2
+Hai, perkenalkan nama saya Rendy Aldion. Ini adalah hasil jawab dari tes bootcamp Dumbways Batch 19 Kloter 2
 
 ## Installation
 
